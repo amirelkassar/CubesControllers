@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestControllersApp", "TestControllersApp\TestControllersApp.csproj", "{646729E6-20ED-40BE-9E1A-212DEEBD8BE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfComboboxTreeview", "..\..\..\My Classes\WpfComboboxTreeview\WpfComboboxTreeview\WpfComboboxTreeview.csproj", "{80BF9B84-1A94-4352-813B-0A7858F642F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646729E6-20ED-40BE-9E1A-212DEEBD8BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646729E6-20ED-40BE-9E1A-212DEEBD8BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646729E6-20ED-40BE-9E1A-212DEEBD8BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646729E6-20ED-40BE-9E1A-212DEEBD8BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BF9B84-1A94-4352-813B-0A7858F642F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BF9B84-1A94-4352-813B-0A7858F642F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BF9B84-1A94-4352-813B-0A7858F642F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BF9B84-1A94-4352-813B-0A7858F642F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB1EDDA5-A236-42CB-A952-9F7C64910486}
+	EndGlobalSection
+EndGlobal
