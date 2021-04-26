@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestControllersApp", "TestControllersApp\TestControllersApp.csproj", "{646729E6-20ED-40BE-9E1A-212DEEBD8BE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfComboboxTreeview", "..\..\..\My Classes\WpfComboboxTreeview\WpfComboboxTreeview\WpfComboboxTreeview.csproj", "{80BF9B84-1A94-4352-813B-0A7858F642F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfComboboxTreeview", "WpfComboboxTreeview\WpfComboboxTreeview.csproj", "{80BF9B84-1A94-4352-813B-0A7858F642F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
